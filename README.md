@@ -2,7 +2,7 @@
 
 A comprehensive and secure platform for reporting, tracking, and managing cases. The system features multiple role-based dashboards (Citizen, Officer, Supervisor, Admin) to ensure a streamlined workflow for handling reports, tracking progress, and managing evidence.
 
-## 🚀 Features
+## Features
 
 *   **Role-Based Access Control**: Tailored dashboards and permissions for Citizens, Officers, Supervisors, and Administrators.
 *   **Anonymous Reporting**: Securely submit reports without exposing personal identity.
@@ -11,13 +11,13 @@ A comprehensive and secure platform for reporting, tracking, and managing cases.
 *   **Analytics & Dashboard**: Interactive charts and statistics for supervisors and admins to monitor platform metrics.
 *   **Wanted Persons Directory**: Publicly accessible database of persons of interest.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 *   **Frontend**: React, TypeScript, Vite, Tailwind CSS, Zustand (State Management), React Query.
 *   **Backend**: Laravel (PHP), MySQL.
 *   **Authentication**: Laravel Sanctum.
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 *   [PHP](https://www.php.net/) (v8.1 or newer)
@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 *   [Node.js](https://nodejs.org/) (v18 or newer)
 *   [MySQL](https://www.mysql.com/) (or XAMPP/WAMP for local development)
 
-## ⚙️ Installation Guide
+## Installation Guide
 
 ### 1. Clone the repository
 ```bash
@@ -72,7 +72,7 @@ npm install
 npm run dev
 ```
 
-## 🌐 Running the Application
+## Running the Application
 
 *   **Frontend User Interface**: Open your browser and go to `http://localhost:5173`
 *   **Backend API**: The API will be running at `http://localhost:8000`
